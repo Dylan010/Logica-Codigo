@@ -16,3 +16,11 @@ Aqui pondre los ejercios que resuelva de las siguientes plataformas:
 ## Estructura
 
 Cada plataforma tendra su propia carpeta y una subcarpeta con el nombre del lenguaje que use, ademas de un archivo README.md con la explicacion del problema y la solucion.
+
+## Lenguajes 
+-JavaScript
+-Python
+-C++
+-Rust
+-TypeScript
+-Go
